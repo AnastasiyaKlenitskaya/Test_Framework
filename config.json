@@ -1,0 +1,10 @@
+{
+  "qa": {
+    "database": "Driver={SQL Server};Server=localhost;Database=TRN;Trusted_Connection=Yes;",
+    "test_data_folder": "C:/Users/Anastasiya_Klenitska/PycharmProjects/pythonProject/Test_Framework_Klenitskaya/test_data",
+    "CSVfile": "C:/Users/Anastasiya_Klenitska/PycharmProjects/pythonProject/Test_Framework_Klenitskaya/for_testing.csv",
+    "TEXTfile": "C:/Users/Anastasiya_Klenitska/Desktop/DQ_mentoring\\4 task/Test_framework/REG_UPDATES.txt"
+  }
+
+
+}
