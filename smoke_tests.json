@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Check table 'hr.countries' for data existing",
+      "query": "SELECT COUNT(*) FROM hr.countries",
+      "expected": 25
+    },
+    {
+      "name": "Check table 'hr.regions' for data existing",
+      "query": "SELECT COUNT(*) FROM hr.regions",
+      "expected": 5
+    }
+  ]
+}

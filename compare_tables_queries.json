@@ -1,0 +1,8 @@
+{
+  "compare_tables": [
+    {
+      "test_case": "Compare target table with sorce file",
+      "sql_query": "SELECT * FROM hr.regions"
+    }
+  ]
+}
